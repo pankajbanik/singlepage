@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    
+}
+body{
+    background-image: url(pt23.jpg);
+    background-size: calc(100%);
+    background-repeat: no-repeat;
+}
+
+img{width: 25%;
+    align-items: center;
+   
+    margin-left: auto;
+    margin-top: 20%;
+
+    
+}
+h1,h2{
+    
+    text-align: center;
+}
+svg{
+    color: #0066ff;
+    
+}
+body
+{
+    overflow-x: hidden;
+
+}
+
+
